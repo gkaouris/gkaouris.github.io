@@ -1,5 +1,5 @@
 body{
-  background-color: #46e2e2;
+  background-color: #24ccbb;
   font-family: 'Raleway', sans-serif;
 
 
@@ -27,6 +27,7 @@ body{
   height: 130px;
   border-radius: 50%;
   margin-bottom: 10px;
+  z-index: 2;
 }
 
 .navbar ul{
@@ -60,7 +61,7 @@ a .image:hover{
 }
 
 .navbar{
-  background-color:#46e2e2;
+  background-color:#24ccbb;
   border-radius:10px;
   margin: 30px 10px 0 10px;
 }
@@ -73,7 +74,7 @@ a .image:hover{
 .container2{
   margin-left: 25px;
   margin-right: 25px;
-  margin-top: 10px;
+  margin-top: 100px;
   overflow:none;
 }
 
@@ -81,4 +82,78 @@ a .image:hover{
   color: white;
   font-weight: bold;
   overflow:none;
+}
+
+.container3{
+  padding-top: 0px;
+}
+
+.project{
+  height: 150px;
+  width: 270px;
+  border:2px solid;
+  border-radius: 15px;
+}
+
+.container3 li{
+  padding:60px;
+}
+
+.container2 p{
+  font-size: 25px;
+}
+
+.myskills{
+  padding-top:20px;
+  color: white;
+}
+
+#html{
+  color: #d8760d;
+}
+
+#css{
+  color: #3573d6
+}
+
+#javascript{
+  color: #f4e842
+}
+
+.icons{
+  padding-top: 20px;
+}
+
+.icons li{
+  padding:20px;
+}
+
+.container4{
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.name{
+  font-size:55px;
+}
+
+.phone, .email{
+  color: white;
+}
+
+.banner{
+  font-size: 35px;
+}
+
+.html, .css, .java{
+  font-family: 'Raleway', sans-serif;
+}
+
+.email{
+  font-size: 20px;
+}
+
+.container5{
+  background-color: white;
+  border-radius: 10px;
 }
