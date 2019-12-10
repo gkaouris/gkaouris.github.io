@@ -120,6 +120,14 @@ a .image:hover{
   color: #f4e842
 }
 
+#python{
+  color: #34eb6e
+}
+
+#java{
+  color: #52ba73;
+}
+
 .icons{
   padding-top: 20px;
 }
